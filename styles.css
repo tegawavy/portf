@@ -727,12 +727,11 @@ footer ul {
       .Nav ul {
         gap: 15px;
         border-radius: 15px;
-        padding: 5px 10px;
+        padding: 10px 15px;
     }
     .media {
         background-color: #0E0C0A;
         color: white;
-        padding: 6px 68p;
         border-radius: 50px;
         border: solid;
         position: relative;
@@ -869,7 +868,7 @@ footer ul {
     }
   
     .media {
-      padding: 8px;
+      padding: 10px 8px;
     }
   
     .box2 img {
