@@ -13,7 +13,6 @@ body {
     z-index: 1;
     top: 0;
     background-color: white;
-    display: none;
 }
 .Nav h2 {
     opacity: 0;
